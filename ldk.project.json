@@ -1,0 +1,5 @@
+{
+	"name": "ldk-project",
+	"luaversion": "5.1",
+	"luarocks": false
+}
